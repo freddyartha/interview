@@ -85,6 +85,7 @@ class _MyHomePageState extends State<MyHomePage> {
     for (int i = 0; i<=10; i++){
         // print(i);
         print(getText(i));
+        
       }
   }
 
